@@ -1,0 +1,11 @@
+main: io.github.CharacterCraft.CharacterCraft
+version: inDev | 1.0.7
+name: CharacterCraft
+
+commands:
+    cc:
+        description: Base command for StaticCraft.
+
+permissions:
+    character.basic:
+        default: op
